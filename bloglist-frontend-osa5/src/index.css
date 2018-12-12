@@ -1,0 +1,26 @@
+.notification {
+  color: black;
+  background: green;
+  font-size: 20px;
+  border-style: solid;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: black;
+  background: red;
+  font-size: 20px;
+  border-style: solid;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.button {
+  margin-left: 3px
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
